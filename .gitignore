@@ -57,3 +57,6 @@ CLAUDE.local.md
 
 # Samples that cannot be distributed: a link to them in a working copy, checks pass them over when absent
 /samples
+result
+
+.direnv/
